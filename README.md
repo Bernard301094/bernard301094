@@ -10,12 +10,16 @@ Soy un apasionado por la programación y el desarrollo de software. Estoy en Git
 ### Frameworks & Librerías
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
+### Version Control
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide=contribs,prs)
+###Herramientas
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
-## Lenguajes de Programación
+### Información de mi Cuenta
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bernard301094&show_icons=true&count_private=true&hide=contribs,prs) ![Trello](https://img.shields.io/badge/trello-%231E90FF.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Conéctate Conmigo
 
