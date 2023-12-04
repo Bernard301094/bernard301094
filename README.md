@@ -21,13 +21,12 @@ Soy un apasionado por la programación y el desarrollo de software. Estoy en Git
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bernard301094&show_icons=true&count_private=true&hide=contribs,prs)
 
 
-
 ## Conéctate Conmigo
 
 ¡No dudes en contactarme! Estoy disponible en las siguientes plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- [Twitter](https://twitter.com/tu_usuario)
-- [Sitio web/blog personal](https://www.tu-sitio-web.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernard30101994@gmail.com)
+[![LinkedIn](ruta/a/tu/imagen/linkedin.png)](www.linkedin.com/in/bernard301094)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/TU_ID_DE_DISCORD)
 
 ¡Gracias por visitar mi perfil! 😊
