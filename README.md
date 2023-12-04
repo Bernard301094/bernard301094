@@ -3,9 +3,9 @@ Me llamo Bernard De Freitas, soy venezolano de nacimiento y actualmente residien
 Soy un apasionado por la programación y el desarrollo de software. Estoy en GitHub para construir cosas increíbles y aprender de la comunidad.
 
 ## Idiomas
-Español - Nativo
-Portugués - Fluído
-Inglés -  Intermedio
+* Español - Nativo
+* Portugués - Fluído
+* Inglés -  Intermedio
 
 ## Skills
 ### Aplicaciones
