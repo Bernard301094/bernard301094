@@ -1,9 +1,11 @@
 <!-- 🇧🇷 Português Brasileiro -->
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="24"/> **Português Brasileiro**
 
-### 👋 Olá e bem-vindo ao meu cantinho no GitHub!
-Meu nome é Bernard De Freitas, 🇻🇪 venezuelano morando em 📍 Fortaleza, Brasil.  
-Apaixonado por 💻 programação e desenvolvimento de software. Aqui, busco construir soluções e aprender com a comunidade.
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá e bem-vindo ao meu cantinho no GitHub!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&width=435&lines=Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Em+busca+de+evolução+contínua..." alt="Typing SVG" />
+
+Meu nome é Bernard De Freitas, venezuelano <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ve.svg" width="24"/> morando em 📍 Fortaleza, Brasil.  
+💻 Futuro desenvolvedor full stack em formação.
 
 #### 🗣️ Idiomas
 - 🟡 Espanhol: Nativo  
@@ -15,9 +17,11 @@ Apaixonado por 💻 programação e desenvolvimento de software. Aqui, busco con
 <!-- 🇪🇸 Español -->
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="24"/> **Español**
 
-### 👋 ¡Hola y bienvenido a mi rincón en GitHub!
-Soy Bernard De Freitas, 🇻🇪 venezolano residenciado en 📍 Fortaleza, Brasil.  
-Apasionado por 💻 la programación y el desarrollo de software. Estoy aquí para crear soluciones y aprender de la comunidad.
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ¡Hola y bienvenido a mi rincón en GitHub!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&width=435&lines=Futuro+Desarrollador+Full+Stack;Apasionado+por+la+tecnología;En+constante+aprendizaje..." alt="Typing SVG" />
+
+Soy Bernard De Freitas, venezolano <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ve.svg" width="24"/> residenciado en 📍 Fortaleza, Brasil.  
+💻 Futuro desarrollador full stack en formación.
 
 #### 🗣️ Idiomas
 - 🟡 Español: Nativo  
@@ -29,9 +33,11 @@ Apasionado por 💻 la programación y el desarrollo de software. Estoy aquí pa
 <!-- 🇺🇸 English -->
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="24"/> **English**
 
-### 👋 Hello and welcome to my GitHub corner!
-I'm Bernard De Freitas, 🇻🇪 Venezuelan living in 📍 Fortaleza, Brazil.  
-Passionate about 💻 programming and software development. I'm here to build solutions and learn from the community.
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello and welcome to my GitHub corner!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&width=435&lines=Future+Full+Stack+Developer;Tech+Enthusiast;Always+learning+and+improving..." alt="Typing SVG" />
+
+I'm Bernard De Freitas, a venezuelan <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ve.svg" width="24"/> living in 📍 Fortaleza, Brazil.  
+💻 Future full stack developer in training.
 
 #### 🗣️ Languages
 - 🟡 Spanish: Native  
@@ -57,7 +63,8 @@ Passionate about 💻 programming and software development. I'm here to build so
 ---
 
 ## 📊 GitHub Stats / Estadísticas / Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernard301094&show_icons=true&count_private=true&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernard301094&show_icons=true&count_private=true&hide=contribs,prs)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard301094&layout=compact)
 
 ---
 
