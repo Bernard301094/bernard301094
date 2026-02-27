@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A72D4,100:0057B8&height=200&section=header&text=Bernard%20De%20Freitas&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Training&descAlignY=58&descColor=93C5FD&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Venezolano+%F0%9F%87%BB%F0%9F%87%AA+viviendo+en+Fortaleza%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Futuro+Desenvolvedor+Full+Stack+%F0%9F%92%BB;Future+Full+Stack+Developer+%F0%9F%9A%80;Sempre+aprendendo+%7C+Siempre+aprendiendo" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Venezolano+%F0%9F%87%BB%F0%9F%87%AA+viviendo+en+Fortaleza%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Futuro+Desenvolvedor+Full+Stack+%F0%9F%92%BB;Future+Full+Stack+Developer+%F0%9F%9A%80;Sempre+aprendendo+%7C+Siempre+aprendiendo" alt="Typing SVG"/>
 
 <br/>
 
