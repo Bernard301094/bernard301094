@@ -1,72 +1,124 @@
-<!-- 🇧🇷 Português Brasileiro -->
-<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="24"/> **Português Brasileiro**
+<div align="center">
 
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá e bem-vindo ao meu cantinho no GitHub!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&width=435&lines=Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Em+busca+de+evolução+contínua..." alt="Typing SVG" />
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A72D4,100:0057B8&height=200&section=header&text=Bernard%20De%20Freitas&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Training&descAlignY=58&descColor=93C5FD&animation=fadeIn"/>
 
-Meu nome é Bernard De Freitas, venezuelano <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ve.svg" width="24"/> morando em 📍 Fortaleza, Brasil.  
-💻 Futuro desenvolvedor full stack em formação.
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Venezolano+%F0%9F%87%BB%F0%9F%87%AA+viviendo+en+Fortaleza%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Futuro+Desenvolvedor+Full+Stack+%F0%9F%92%BB;Future+Full+Stack+Developer+%F0%9F%9A%80;Sempre+aprendendo+%7C+Siempre+aprendiendo" alt="Typing SVG"/>
 
-#### 🗣️ Idiomas
-- 🟡 Espanhol: Nativo  
-- 🟢 Português: Fluente  
-- 🔵 Inglês: Intermediário
+<br/>
 
----
+<!-- LANGUAGES BADGES -->
+<img src="https://img.shields.io/badge/ES-Nativo-FFD700?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/PT-Fluente-009C3B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/EN-Intermediate-1D6FA4?style=flat-square&logoColor=white"/>
 
-<!-- 🇪🇸 Español -->
-<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="24"/> **Español**
-
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ¡Hola y bienvenido a mi rincón en GitHub!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&width=435&lines=Futuro+Desarrollador+Full+Stack;Apasionado+por+la+tecnología;En+constante+aprendizaje..." alt="Typing SVG" />
-
-Soy Bernard De Freitas, venezolano <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ve.svg" width="24"/> residenciado en 📍 Fortaleza, Brasil.  
-💻 Futuro desarrollador full stack en formación.
-
-#### 🗣️ Idiomas
-- 🟡 Español: Nativo  
-- 🟢 Portugués: Fluido  
-- 🔵 Inglés: Intermedio
+</div>
 
 ---
 
-<!-- 🇺🇸 English -->
-<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="24"/> **English**
+## 👨‍💻 Sobre mim · Sobre mí · About me
 
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello and welcome to my GitHub corner!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&width=435&lines=Future+Full+Stack+Developer;Tech+Enthusiast;Always+learning+and+improving..." alt="Typing SVG" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm Bernard De Freitas, a venezuelan <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ve.svg" width="24"/> living in 📍 Fortaleza, Brazil.  
-💻 Future full stack developer in training.
+**🇧🇷 Português**
 
-#### 🗣️ Languages
-- 🟡 Spanish: Native  
-- 🟢 Portuguese: Fluent  
-- 🔵 English: Intermediate
+Olá! Sou **Bernard De Freitas**, venezuelano radicado em Fortaleza, Brasil. Apaixonado por tecnologia, estou em formação como desenvolvedor full stack, construindo projetos reais enquanto aprendo — do front ao back, do design à lógica.
+
+</td>
+<td width="50%" valign="top">
+
+**🇪🇸 Español**
+
+¡Hola! Soy **Bernard De Freitas**, venezolano residenciado en Fortaleza, Brasil. Apasionado por la tecnología, me estoy formando como desarrollador full stack — construyendo proyectos reales mientras aprendo.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🇺🇸 English**
+
+Hello! I'm **Bernard De Freitas**, a Venezuelan living in Fortaleza, Brazil. Passionate about tech, I'm training as a full stack developer — building real projects while continuously learning and improving.
+
+</td>
+<td valign="top">
+
+📍 Fortaleza, Ceará — Brasil  
+📧 [bernard30101994@gmail.com](mailto:bernard30101994@gmail.com)  
+💼 [linkedin.com/in/bernard-castillo](https://www.linkedin.com/in/bernard-castillo)  
+🎮 Discord: [bernard301094](https://discordapp.com/users/bernard301094)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Skills / Habilidades
+## 🛠️ Tech Stack
 
-### 💻 Applications / Aplicaciones / Aplicações
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+### 💻 Languages
+<div>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+</div>
 
-### ⚙️ Frameworks & Libraries / Frameworks y Librerías / Frameworks e Bibliotecas
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+### ⚙️ Frameworks & Libraries
+<div>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
 
-### 🔄 Version Control / Control de Versiones / Controle de Versão
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+### 🔄 Version Control
+<div>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
 
-### 🧰 Tools / Herramientas / Ferramentas
-<img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Trello" src="https://img.shields.io/badge/trello-%231E90FF.svg?style=for-the-badge&logo=trello&logoColor=white"/> <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+### 🧰 Tools & Platforms
+<div>
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats / Estadísticas / Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernard301094&show_icons=true&count_private=true&hide=contribs,prs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard301094&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bernard301094&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1A72D4&text_color=C9D1D9"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard301094&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bernard301094&theme=tokyonight&hide_border=true&background=0D1117&ring=1A72D4&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10)
+
+</div>
 
 ---
 
-## 📫 Contact / Contacto / Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernard30101994@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-castillo) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/bernard301094)
+## 📫 Get in touch
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernard30101994@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-castillo)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/bernard301094)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B8,50:1A72D4,100:0D1117&height=120&section=footer"/>
+
+</div>
