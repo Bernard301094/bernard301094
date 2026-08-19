@@ -1,0 +1,32 @@
+name: Atualizar GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Atualizar estatísticas reais do GitHub
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Gerar Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Bernard301094
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
