@@ -1,78 +1,84 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0F2747,100:1A72D4&height=200&section=header&text=Bernard%20De%20Freitas&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer&descAlignY=58&descColor=93C5FD&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=170&section=header&text=Oi%2C%20eu%20sou%20o%20Bernard%20%F0%9F%91%8B&fontSize=44&fontColor=FFFFFF&fontAlignY=45&animation=scaleIn" />
 
 <a href="https://github.com/Bernard301094">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=560&lines=Java+%C2%B7+Android+%C2%B7+Backend+%C2%B7+SQL;Transformo+problemas+reais+em+software;Teste+antes+do+c%C3%B3digo%2C+PRs+pequenos;Aprendendo+um+projeto+de+cada+vez" alt="Frases animadas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=700&color=EC4899&center=true&vCenter=true&multiline=false&width=620&lines=Dev+de+software+em+Fortaleza+%F0%9F%8C%B4;Java+%E2%98%95+%C2%B7+Android+%F0%9F%93%B1+%C2%B7+SQL+%F0%9F%97%84%EF%B8%8F;Transformo+problemas+reais+em+apps+%F0%9F%9A%80;Teste+antes+do+c%C3%B3digo+%E2%9C%85" alt="Frases animadas" />
 </a>
 
-<a href="https://www.linkedin.com/in/bernard-castillo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:bernard30101994@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Fortaleza%2C%20CE-21262D?style=flat-square&logo=googlemaps&logoColor=white" />
+<br/>
+
+<a href="https://www.linkedin.com/in/bernard-castillo"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bernard30101994@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Bernard301094&label=Visitas&color=22d3ee&style=for-the-badge" alt="Visitas" />
 
 </div>
 
 ---
 
-## Sobre mim
+### ⚡ Agora
 
-Sou desenvolvedor de software, venezuelano, morando em Fortaleza (CE), e estudante de **Análise e Desenvolvimento de Sistemas**.
+<table>
+<tr>
+<td align="center" width="25%">🔨<br/><b>Construindo</b><br/><sub>apps que resolvem problemas reais</sub></td>
+<td align="center" width="25%">📚<br/><b>Estudando</b><br/><sub>Análise e Desenvolvimento de Sistemas</sub></td>
+<td align="center" width="25%">🎯<br/><b>Foco</b><br/><sub>Java · Android · Backend · SQL</sub></td>
+<td align="center" width="25%">🌎<br/><b>Falo</b><br/><sub>Español · Português · English (aprendendo)</sub></td>
+</tr>
+</table>
 
-Aprendo construindo: pego um problema real, entendo o contexto e entrego uma solução que funcione no dia a dia de quem usa. Hoje estou me aprofundando em **Java, Android, backend e bancos de dados**, com atenção a arquitetura, testes, segurança e experiência do usuário.
-
-| | |
-|---|---|
-| **Foco atual** | Java · Android · Backend · SQL |
-| **Também trabalho com** | React · TypeScript · Vitest · Playwright |
-| **Formação** | Análise e Desenvolvimento de Sistemas |
-| **Idiomas** | Espanhol (nativo) · Português (fluente) · Inglês (pré-intermediário) |
+Venezuelano 🇻🇪 morando em Fortaleza 🇧🇷. Meu jeito de aprender é simples: **pego um problema de verdade e construo a solução**. No caminho, cuido de testes, segurança e de quem vai usar.
 
 ---
 
-## Projetos em destaque
+### 🚀 Projetos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☕ PontoCafe
-Controle de pausas de café com reconhecimento facial, perfis de acesso e modo terminal de ponto.
+#### ☕ PontoCafe
+Pausas de café com **reconhecimento facial**, perfis de acesso e modo terminal de ponto.
 
-`Android` `Java` `Reconhecimento facial` `Autenticação`
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<a href="https://github.com/Bernard301094/PontoCafe"><img src="https://img.shields.io/badge/Ver%20projeto-1A72D4?style=flat-square&logo=github&logoColor=white" /></a>
+[**→ Ver projeto**](https://github.com/Bernard301094/PontoCafe)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 FloraCareAI
-Identificação e acompanhamento de plantas com IA, dados climáticos e recomendações de rega adaptativas.
+#### 🌿 FloraCareAI
+Cuida das suas plantas com **IA e dados do clima**: identifica a espécie e diz quando regar.
 
-`Android` `IA` `APIs` `Dados climáticos`
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![IA](https://img.shields.io/badge/IA-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
-<a href="https://github.com/Bernard301094/FloraCareAI"><img src="https://img.shields.io/badge/Ver%20projeto-1A72D4?style=flat-square&logo=github&logoColor=white" /></a>
+[**→ Ver projeto**](https://github.com/Bernard301094/FloraCareAI)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Gestão de Absenteísmo
-Acompanhamento de efetivo, ausências e distribuição operacional de colaboradores, com indicadores para a gestão.
+#### 📊 Gestão de Absenteísmo
+Efetivo, ausências e distribuição de equipes **num painel só**, com indicadores para a gestão.
 
-`Web` `Regras de negócio` `Indicadores`
+![Web](https://img.shields.io/badge/Web-22D3EE?style=flat-square&logo=googlechrome&logoColor=white)
+![Indicadores](https://img.shields.io/badge/Indicadores-EC4899?style=flat-square&logo=chartdotjs&logoColor=white)
 
-<a href="https://github.com/Bernard301094/Gestao-Absenteismo-Vonixx"><img src="https://img.shields.io/badge/Ver%20projeto-1A72D4?style=flat-square&logo=github&logoColor=white" /></a>
+[**→ Ver projeto**](https://github.com/Bernard301094/Gestao-Absenteismo-Vonixx)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Laboratório
-Estudos de arquitetura, APIs REST, SQL, automação e IA aplicada, em projetos menores.
+#### 🧪 Laboratório
+Onde testo arquitetura, **APIs REST**, SQL, automação e IA em projetos menores.
 
-`Java` `APIs REST` `SQL` `Automação`
+![APIs](https://img.shields.io/badge/APIs%20REST-8B5CF6?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-22D3EE?style=flat-square&logo=postgresql&logoColor=white)
 
-<a href="https://github.com/Bernard301094?tab=repositories"><img src="https://img.shields.io/badge/Todos%20os%20reposit%C3%B3rios-21262D?style=flat-square&logo=github&logoColor=white" /></a>
+[**→ Todos os repositórios**](https://github.com/Bernard301094?tab=repositories)
 
 </td>
 </tr>
@@ -80,59 +86,46 @@ Estudos de arquitetura, APIs REST, SQL, automação e IA aplicada, em projetos m
 
 ---
 
-## Tecnologias
+### 🛠️ Minha caixa de ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,js,ts,react,python,html,css&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode,idea,figma&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,kotlin,ts,react,js,python,html,css&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode,idea,figma,vite&perline=8" />
 </p>
 
 ---
 
-## Como eu desenvolvo
+### 📈 Atividade
 
 <div align="center">
 
-**Problema → Análise → Implementação → Testes → Refatoração → Evolução**
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bernard301094&theme=radical&hide_border=true&background=0F0F1A&ring=EC4899&fire=EC4899&currStreakLabel=22D3EE" alt="Sequência de contribuições" />
+<img width="49%" src="./profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas" />
 
-</div>
-
-Antes de escolher uma tecnologia, procuro entender o problema. Escrevo o teste antes do código quando possível, mantenho as mudanças pequenas e revisáveis e cuido do que vem depois da entrega: tratamento de erros, segurança e manutenção.
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img width="82%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Detalhes do perfil" />
-
-<img width="40%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens por repositório" />
-<img width="40%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bernard301094&bg_color=0D1117&color=93C5FD&line=1A72D4&point=FFFFFF&area=true&area_color=1A72D4&hide_border=true" alt="Gráfico de contribuições" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bernard301094&bg_color=0F0F1A&color=EC4899&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true" alt="Gráfico de contribuições" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bernard301094/Bernard301094/output/github-snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/Bernard301094/Bernard301094/output/github-snake.svg" alt="Serpente comendo o gráfico de contribuições" />
 </picture>
 
-<sub>Atualizado diariamente via GitHub Actions.</sub>
-
 </div>
+
+---
+
+### 🎲 Curiosidades
+
+- 🧠 Gosto de entender o **porquê** antes de escrever o código
+- ✅ Escrevo o teste **antes** e mantenho os PRs pequenos
+- ☕ Fiz um app só pra organizar as pausas de café
 
 ---
 
 <div align="center">
 
-**Aberto a oportunidades, colaboração e troca de conhecimento.**
+**Bora trocar uma ideia? Estou aberto a oportunidades e colaborações** 💬
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A72D4,45:0F2747,100:0D1117&height=110&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:EC4899,100:8B5CF6&height=8&section=footer" />
 
 </div>
